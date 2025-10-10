@@ -1,11 +1,12 @@
 {
-  "name": "BALLI",
-  "symbol": "BALLI",
+  "name": "QR BALLI",
+  "symbol": "QR BALLI",
   "description": "Community token for expats in Bali. Pay for villa, bike, cafe, visa.",
-  "image": "https://raw.githubusercontent.com/yourusername/balli-token/main/logo.png",
-  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/aleksandrhrabriy/qrballi-token/main/logo.png",
+  "decimals": 0,
   "social_links": [
-    "https://www.notion.so/BALLI-Community-Token-for-Expats-285c1aeac30180abbb30db365fe196aa",
-    "https://t.me/aleksandr_hrabriy"
+    "https://www.notion.so/QR-BALLI-Community-Investment-Exchange-Token-System-285c1aeac30180abbb30db365fe196aa",
+    "https://t.me/aleksandr_hrabriy",
+    "mailto:aleksandr.hrabriy@gmail.com",
   ]
 }
